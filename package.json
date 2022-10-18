@@ -1,6 +1,6 @@
 {
   "name": "vanity-eth",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "ethereum vanity address generator",
   "main": "index.js",
   "type": "module",
@@ -21,6 +21,10 @@
     {
       "name": "Boris K",
       "url": "https://github.com/bokub"
+    },
+    {
+      "name": "ayushch80",
+      "url": "https://github.com/ayushch80"
     }
   ],
   "license": "MIT",
@@ -35,6 +39,7 @@
     "ethereumjs-util": "^7.0.9",
     "hh-mm-ss": "^1.2.0",
     "ora": "^6.0.1",
-    "yargs": "^17.2.1"
+    "yargs": "^17.2.1",
+    "account-eth": "^0.1.7",
   }
 }
